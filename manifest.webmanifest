@@ -1,0 +1,5 @@
+{
+"name":"شركة QN لتجارة المواد الغذائية","short_name":"QN","lang":"ar","dir":"rtl","display":"standalone",
+"background_color":"#061A16","theme_color":"#0B2E26",
+"icons":[{"src":"assets/qn-logo.jpg","sizes":"512x512","type":"image/jpeg"}]
+}
